@@ -163,3 +163,5 @@ cython_debug/
 
 # Chunky data folder
 data/
+# macOS nonsense
+.DS_Store
